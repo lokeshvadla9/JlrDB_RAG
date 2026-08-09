@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+# Un-comment the line below for production repositories where secrets must stay local
+# .env
+
+# VS Code & Editor Settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Database / Local SQLite dumps (if any generated later)
+*.sqlite3
+*.db
