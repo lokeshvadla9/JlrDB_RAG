@@ -6,7 +6,7 @@ A hands-on practice project for querying a Microsoft SQL Server database using N
 
 ## 📽️ Demo & Sample Output
 
-** Watch the chatbot in action below:**
+ Watch the chatbot in action below:
 
 🎥 ![Output GIF (output.gif)](Output.gif)
 
