@@ -15,7 +15,7 @@ A hands-on practice project for querying a Microsoft SQL Server database using N
 
 ## 🏗️ Architecture & Pipeline
 
-![Architecture Diagram](./Architecture.jpg)
+![Architecture Diagram](Architecture.jpg)
 
 ### Key Features
 * 🧠 **Conversational Memory**: Remembers context across follow-up questions (e.g., *"Who bought the most expensive car?"* ──► *"What is their email address?"*).
